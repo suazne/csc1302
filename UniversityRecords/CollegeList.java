@@ -1,4 +1,4 @@
-package CSC1302_HW2;
+//DRIVER CODE
 import java.util.*;
 public class CollegeList
 {
