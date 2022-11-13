@@ -1,6 +1,4 @@
-//Suzanne Schouest CSC 1302 Online Section HW 2 02/02/2022
-package CSC1302_HW2;
-
+//info for employees of college
 import java.util.*;
 public class CollegeEmployee extends Person
 {   
